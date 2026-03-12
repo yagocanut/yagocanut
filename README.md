@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo programação <br>🎯 Objetivos: Melhorar meu conhecimento na área<br>🎲 Curiosidade: Manjo bastante de tecnologia mas ao mesmo tempo tenho dificuldades</p>
+<p align="left">📚 Atualmente estou aprendendo programação <br>🎯 Objetivos: Melhorar meu conhecimento na área<br>🎲 Curiosidade: Eu entendendo bastante de tecnologia mas, ao mesmo tempo tenho dificuldades</p>
 
 ###
 
